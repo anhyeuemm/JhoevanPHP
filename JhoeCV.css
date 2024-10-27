@@ -1,0 +1,166 @@
+body{
+    background-color: peachpuff;
+    font-family: "Agdasima", sans-serif;
+
+}
+.agdasima-regular {
+    font-family: "Agdasima", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+ .container2{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 50px;
+    
+    }
+    .container2 img{
+        height: 300px;
+        margin-left: 200px;
+        margin-top: 60px;
+        border-radius: 50%;
+        box-shadow: 0px 0px 30px;
+    }
+    .demo{
+      margin-left: 120px;
+      color: black;
+    }
+    .demo p{
+        margin-top: -80px;
+        font-size: 70px;
+        color:black;
+    }
+    
+    .demo h1{
+        color: grey;
+        margin-left: 6px;
+        margin-top: -60px;
+    }
+    .demo button{
+        margin-top: 20px;
+        padding: 15px 30px;
+        border-radius: 20px;
+        border: none;
+        background-color:rgb(9, 152, 228);
+        color: white;
+        font-size: 13px;
+        margin-left: 1px;
+        animation: shake 0.5s cubic-bezier(.36,.07,.19,.97) both; /* Shake effect on hover */
+    }
+    .demosec{
+        margin-top: 50px;
+        padding-bottom: 200px;
+        display: flex;
+        justify-content: space-between;
+    }
+.profile-section{
+    padding-bottom: 200px;
+}
+.profile h1{
+    text-align: center;
+    font-size: 40px;
+}
+.profile p{
+
+    font-size: 25px;
+   text-align: center;
+   margin-left: 200px;
+   margin-right: 200px;
+}
+.contact-info {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 20px;
+    margin-left: 130px;
+}
+.info-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 100px;
+}
+
+.info-item img {
+    width: 35px;
+    margin-right: 10px;
+}
+
+.info-item p {
+    font-size: 16px;
+    color: black;
+}
+.profile2-section{
+    padding-bottom: 200px;
+}
+.profile2 h1{
+    text-align: center;
+    font-size: 40px;
+}
+.profile2 p{
+    font-size: 25px;
+   text-align:left;
+   margin: 50px;
+   margin-top: -20px;
+   margin-left: 300px;
+}
+ul li{
+    font-size: 25px;
+    margin-top: 20px;
+}
+ul{
+    margin-left: 300px;
+}
+.container22{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -50px;
+    margin-left: 50px;
+
+}
+.container22 img{
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 60px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 30px;
+}
+.demo2{
+  margin-left: 120px;
+  color: black;
+
+}
+.demo2 p{
+    margin-top: -80px;
+    font-size: 60px;
+    color:black;
+}
+
+.demo2 h1{
+    color: grey;
+    margin-left: 6px;
+    margin-top: -60px;
+}
+.demo2 button{
+    margin-top: 20px;
+    padding: 15px 30px;
+    border-radius: 20px;
+    border: none;
+    background-color:rgb(9, 152, 228);
+    color: white;
+    font-size: 13px;
+    margin-left: 1px;
+    animation: shake 0.5s cubic-bezier(.36,.07,.19,.97) both; /* Shake effect on hover */
+}
+.demosec2{
+    margin-top: 50px;
+    padding-bottom: 200px;
+    display: flex;
+    justify-content: space-between;
+}
